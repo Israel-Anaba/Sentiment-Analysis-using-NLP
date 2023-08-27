@@ -1,0 +1,14 @@
+# import os
+pandas
+datasets 
+scikit-learn
+accelerate
+# import sys
+transformers 
+# from transformers import TrainingArguments
+# from transformers import AutoModelForSequenceClassification
+# from transformers import Trainer
+numpy
+
+# from datasets import load_metric
+# from sklearn.metrics import mean_squared_error
