@@ -1,7 +1,15 @@
 # import os
 pandas
 datasets 
+re
 scikit-learn
 accelerate
 transformers 
 numpy
+huggingface_hub
+wordcloud
+matplotlib
+string
+google.colab
+seaborn
+sklearn.metrics
