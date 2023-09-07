@@ -32,6 +32,7 @@ Our sentiment analysis project offers the following key features:
 
 To get started with sentiment analysis using deep learning models and Gradio, follow our comprehensive documentation and examples. We provide step-by-step instructions, code snippets, and resources to help you build, train, and deploy sentiment analysis solutions tailored to your needs.
 S
+
 ## Setup and Dependencies  🔧 🪛
 
 To run this sentiment analysis project, you'll need to set up a Python environment and install the required dependencies. We recommend using a virtual environment for managing project-specific packages. If you're using Google Colab, you can still set up a virtual environment for your project.
