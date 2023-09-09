@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-NLP 👍 👎 ⚖️
+# Sentiment Analysis with Deep Learning Models 👍 👎 ⚖️
 
 Welcome to the Sentiment Analysis project, where we explore the fascinating world of sentiment prediction using cutting-edge deep learning models and deploy them seamlessly using Gradio. Sentiment analysis, also known as opinion mining, is the process of determining the emotional tone or sentiment expressed in text data, whether it's positive, negative, or neutral.
 
