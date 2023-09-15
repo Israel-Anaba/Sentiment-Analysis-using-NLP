@@ -6,7 +6,8 @@ numpy
 scikit-learn
 gdown
 tabulate
-
+torch
+scipy
 
 
 
