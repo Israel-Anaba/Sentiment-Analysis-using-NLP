@@ -12,6 +12,12 @@ Welcome to the Sentiment Analysis project, where we explore the fascinating worl
 
 In this project, we leverage the power of state-of-the-art deep learning models to analyze and understand sentiment in text. Sentiment analysis has a wide range of applications, from monitoring social media sentiment about products or brands to understanding customer reviews and feedback. By automating sentiment analysis, we can gain valuable insights from large volumes of text data quickly and accurately.
 
+## Preview 🔍 🤖
+
+Below is a preview showcasing the app's appearance.
+
+![Prev](Screenshots/Preview3.png)
+
 ## Key Features
 
 Our sentiment analysis project offers the following key features:
@@ -24,9 +30,11 @@ Our sentiment analysis project offers the following key features:
 
 **Evaluation Metrics**: We evaluate model performance using various metrics, such as accuracy, F1 score, and more, to measure how effectively the models predict sentiment in text.
 
-**Deployment** **with Gradio** : Our project showcases the deployment of sentiment analysis models using Gradio, a user-friendly library for creating customizable UI interfaces for machine learning models. This allows you to interactively analyze sentiment in real-time with ease.
+**Deployment** **with Gradio** : Firstly, The fine-tuned model, along with its associated files, is uploaded to Hugging Face for accessibility. Our project showcases the deployment of sentiment analysis models using Gradio, a user-friendly library for creating customizable UI interfaces for machine learning models. This allows you to interactively analyze sentiment in real-time with ease  and the resulting application is hosted on Hugging Face.
 
-## Preview
+**Docker Containerization**:
+Docker was leveraged to containerize the application, ensuring a streamlined deployment process and enhanced scalability.
+
 
 ## Getting Started
 
@@ -71,6 +79,9 @@ This project was developed during the Azubi Africa Data Science Training. Below 
 Here are a few recommended resources to help you gain a solid understanding of Huggingface:
 
 [Get started with Gradio](https://gradio.app/getting_started/)
+[Get to know about Hugging Face](https://huggingface.co/)
+[More on docker](https://www.docker.com/)
+
 
 ## License
 
@@ -78,6 +89,6 @@ This project is open-source and available under the  [MIT License](LICENSE). Fee
 
 ## Acknowledgments
 
-We would like to express our gratitude to the open-source community and the developers of deep learning frameworks, NLP libraries, and Gradio that make projects like this possible.
+We extend our heartfelt appreciation to Azubi Africa for offering us the opportunity to engage in this educational endeavor and for welcoming us as participants in this program. Additionally, we'd like to acknowledge the invaluable contributions of the open-source community and the dedicated developers of deep learning frameworks, NLP libraries, and Gradio, whose efforts have paved the way for projects of this nature to thrive. Your support has been instrumental in our journey.
 
 Thank you for joining us on this exciting journey into the world of sentiment analysis with deep learning models and Gradio!
