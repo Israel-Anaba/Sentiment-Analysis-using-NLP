@@ -56,7 +56,7 @@ demo = gr.Interface(
     ["I feel confident about covid vaccines"],
     ["I do not like the covid vaccine"],
     ["I like the covid vaccines"],
-    ["The covid vaccine is effective"]
+    ["The covid vaccines are effective"]
     ],
     title="COVID Vaccine Sentiment Analysis",
     description="An AI model that predicts sentiment about COVID vaccines, providing labels and probabilities for 'NEGATIVE', 'NEUTRAL', and 'POSITIVE' sentiments.",
