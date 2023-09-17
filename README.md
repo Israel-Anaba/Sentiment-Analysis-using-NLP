@@ -16,7 +16,14 @@ In this project, we leverage the power of state-of-the-art deep learning models 
 
 Below is a preview showcasing the app's appearance.
 
+
 ![Prev](Screenshots/Preview3.png)
+
+
+
+[Follow this tab to access the Deployed app on Hugging Face](https://huggingface.co/spaces/IsaacSarps/Sentiment_Analysis)
+
+
 
 ## Key Features 💡
 
