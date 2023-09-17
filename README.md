@@ -21,7 +21,7 @@ Below is a preview showcasing the app's appearance.
 
 
 
-[Follow this tab to access the Deployed app on Hugging Face](https://huggingface.co/spaces/IsaacSarps/Sentiment_Analysis)
+[Follow this tab to access the Deployed app on HuggingFace](https://huggingface.co/spaces/IsaacSarps/Sentiment_Analysis)
 
 
 
