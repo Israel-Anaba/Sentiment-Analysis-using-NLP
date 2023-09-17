@@ -9,7 +9,6 @@
 
 
 import gradio as gr
-import pandas as pd
 import numpy as np
 import pickle
 from scipy.special import softmax
@@ -65,6 +64,9 @@ demo = gr.Interface(
 )
 
 if __name__ == "__main__":
-    demo.launch("0.0.0.0:7860")
+    demo.launch(server_name="0.0.0.0",server_port=7860)
+
+    
+    # demo.launch("0.0.0.0:7860")
     
     

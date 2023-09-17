@@ -3,13 +3,23 @@ FROM python:3.11.4-slim
 
 WORKDIR /usr/src/app
 
+
 COPY requirements.txt ./
+
+# Install or upgrade pip within the Docker image
+RUN pip install --upgrade pip
+
 
 RUN pip install -r requirements.txt
 
 COPY . /app.py.
 
 CMD ["python", "/usr/src/app/app.py"]
+
+# Expose the port that Gradio will use
+EXPOSE 7860
+
+
 
 
 
