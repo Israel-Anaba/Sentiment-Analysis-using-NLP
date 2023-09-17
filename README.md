@@ -8,7 +8,7 @@ Welcome to the Sentiment Analysis project, where we explore the fascinating worl
 ![PR](https://img.shields.io/github/issues-pr/PapiHack/wimlds-demo?style=for-the-badge&logo=appveyor)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-## Overview 🔍 🤖
+## Overview 🚀
 
 In this project, we leverage the power of state-of-the-art deep learning models to analyze and understand sentiment in text. Sentiment analysis has a wide range of applications, from monitoring social media sentiment about products or brands to understanding customer reviews and feedback. By automating sentiment analysis, we can gain valuable insights from large volumes of text data quickly and accurately.
 
@@ -18,7 +18,7 @@ Below is a preview showcasing the app's appearance.
 
 ![Prev](Screenshots/Preview3.png)
 
-## Key Features
+## Key Features 💡
 
 Our sentiment analysis project offers the following key features:
 
@@ -35,8 +35,7 @@ Our sentiment analysis project offers the following key features:
 **Docker Containerization**:
 Docker was leveraged to containerize the application, ensuring a streamlined deployment process and enhanced scalability.
 
-
-## Getting Started
+## Getting Started 🏁 🚀
 
 To get started with sentiment analysis using deep learning models and Gradio, follow our comprehensive documentation and examples. We provide step-by-step instructions, code snippets, and resources to help you build, train, and deploy sentiment analysis solutions tailored to your needs.
 S
@@ -74,16 +73,17 @@ This project was developed during the Azubi Africa Data Science Training. Below 
 |      |         |        |
 |      |         |        |
 
-## Resources
+## Resources 📚
 
-Here are a few recommended resources to help you gain a solid understanding of Huggingface:
+Here are a few recommended resources to help you gain a solid understanding of the frameworks used in the project:
 
 [Get started with Gradio](https://gradio.app/getting_started/)
+
 [Get to know about Hugging Face](https://huggingface.co/)
-[More on docker](https://www.docker.com/)
 
+[More on Docker](https://www.docker.com/)
 
-## License
+## License 📝
 
 This project is open-source and available under the  [MIT License](LICENSE). Feel free to use, modify, and distribute it in accordance with the license terms.
 
