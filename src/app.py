@@ -16,7 +16,7 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer, Auto
 
 
 # Requirements
-model_path = "IsaacSarps/sentiment_analysis"
+model_path = "gr8testgad-1/sentiment_analysis"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 config = AutoConfig.from_pretrained(model_path)
 model = AutoModelForSequenceClassification.from_pretrained(model_path)
@@ -53,7 +53,7 @@ demo = gr.Interface(
     interpretation="default",
     examples=[
     ["I feel confident about covid vaccines"],
-    ["I do not like the covid vaccine"],
+    ["Will you take the jab"],
     ["I like the covid vaccines"],
     ["The covid vaccines are effective"]
     ],
@@ -63,10 +63,7 @@ demo = gr.Interface(
     live=True 
 )
 
-if __name__ == "__main__":
-    demo.launch(server_name="0.0.0.0",server_port=7860)
 
-    
-    # demo.launch("0.0.0.0:7860")
-    
-    
+
+if __name__ == "__main__":
+    demo.launch(host="0.0.0.0",port=7860)

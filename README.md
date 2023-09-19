@@ -69,12 +69,12 @@ cd `<project-directory>`
 
 This project was developed during the Azubi Africa Data Science Training. Below is the details of the initial collaborators of this project with respective articles covering the process of the project and their individual github profiles.
 
-| Name | Article | Github |
-| ---- | ------- | ------ |
-|      |  
-* [ ] [Exploring NLP’s Potential: A Deep Learning Journey — Refining RoBERTa for Analyzing Sentiments in COVID Vaccine Tweets](https://israelanaba.medium.com/exploring-nlps-potential-refining-roberta-for-analyzing-sentiments-in-covid-vaccine-tweets-8e904aeecbb7)       |        |
-|      |         |        |
-|      |         |        |
+| Name                | Article                                                                                                                                                                                                                                                         | Github                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Israel Anaba Ayamga | [Exploring NLP’s Potential: A Deep Learning Journey — Refining RoBERTa for Analyzing Sentiments in COVID Vaccine Tweets](https://israelanaba.medium.com/exploring-nlps-potential-refining-roberta-for-analyzing-sentiments-in-covid-vaccine-tweets-8e904aeecbb7) | [Israel_Anaba](https://github.com/Israel-Anaba) |
+|                     |                                                                                                                                                                                                                                                                 |                                              |
+|                     |                                                                                                                                                                                                                                                                 |                                              |
+|                     |                                                                                                                                                                                                                                                                 |                                              |
 
 ## Resources 📚
 
