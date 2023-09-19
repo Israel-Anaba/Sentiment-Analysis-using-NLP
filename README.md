@@ -16,14 +16,9 @@ In this project, we leverage the power of state-of-the-art deep learning models 
 
 Below is a preview showcasing the app's appearance.
 
-
 ![Prev](Screenshots/Preview3.png)
 
-
-
-[Follow this tab to access the Deployed app on HuggingFace](https://huggingface.co/spaces/IsaacSarps/Sentiment_Analysis)
-
-
+* [ ] [Follow this tab to access the Deployed app on HuggingFace](https://huggingface.co/spaces/IsaacSarps/Sentiment_Analysis)
 
 ## Key Features 💡
 
@@ -76,7 +71,8 @@ This project was developed during the Azubi Africa Data Science Training. Below 
 
 | Name | Article | Github |
 | ---- | ------- | ------ |
-|      |         |        |
+|      |  
+* [ ] [Exploring NLP’s Potential: A Deep Learning Journey — Refining RoBERTa for Analyzing Sentiments in COVID Vaccine Tweets](https://israelanaba.medium.com/exploring-nlps-potential-refining-roberta-for-analyzing-sentiments-in-covid-vaccine-tweets-8e904aeecbb7)       |        |
 |      |         |        |
 |      |         |        |
 
