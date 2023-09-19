@@ -16,14 +16,9 @@ In this project, we leverage the power of state-of-the-art deep learning models 
 
 Below is a preview showcasing the app's appearance.
 
-
 ![Prev](Screenshots/Preview3.png)
 
-
-
-[Follow this tab to access the Deployed app on HuggingFace](https://huggingface.co/spaces/IsaacSarps/Sentiment_Analysis)
-
-
+* [ ] [Follow this tab to access the Deployed app on HuggingFace](https://huggingface.co/spaces/IsaacSarps/Sentiment_Analysis)
 
 ## Key Features 💡
 
@@ -74,11 +69,12 @@ cd `<project-directory>`
 
 This project was developed during the Azubi Africa Data Science Training. Below is the details of the initial collaborators of this project with respective articles covering the process of the project and their individual github profiles.
 
-| Name | Article | Github |
-| ---- | ------- | ------ |
-|      |         |        |
-|      |         |        |
-|      |         |        |
+| Name                | Article                                                                                                                                                                                                                                                         | Github                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Israel Anaba Ayamga | [Exploring NLP’s Potential: A Deep Learning Journey — Refining RoBERTa for Analyzing Sentiments in COVID Vaccine Tweets](https://israelanaba.medium.com/exploring-nlps-potential-refining-roberta-for-analyzing-sentiments-in-covid-vaccine-tweets-8e904aeecbb7) | [Israel_Anaba](https://github.com/Israel-Anaba) |
+|                     |                                                                                                                                                                                                                                                                 |                                              |
+|                     |                                                                                                                                                                                                                                                                 |                                              |
+|                     |                                                                                                                                                                                                                                                                 |                                              |
 
 ## Resources 📚
 
