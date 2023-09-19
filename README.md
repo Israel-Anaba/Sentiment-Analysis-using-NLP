@@ -46,7 +46,7 @@ S
 
 To run this sentiment analysis project, you'll need to set up a Python environment and install the required dependencies. We recommend using a virtual environment for managing project-specific packages. If you're using Google Colab, you can still set up a virtual environment for your project.
 
-**Create a Virtual Environment:**Navigate to your project directory and create a virtual environment.
+**Create a Virtual Environment:** Navigate to your project directory and create a virtual environment.
 
 ![venv](Screenshots/GradioSet4.png)
 
