@@ -10,7 +10,7 @@ Welcome to the Sentiment Analysis project, where we explore the fascinating worl
 
 ## Overview 🚀
 
-In this project, we leverage the power of state-of-the-art deep learning models to analyze and understand sentiment in text. Sentiment analysis has a wide range of applications, from monitoring social media sentiment about products or brands to understanding customer reviews and feedback. By automating sentiment analysis, we can gain valuable insights from large volumes of text data quickly and accurately.
+In this project, we leverage the power of state-of-the-art deep learning models to analyze and understand sentiment in texts. Sentiment analysis has a wide range of applications, from monitoring social media sentiment about products or brands to understanding customer reviews and feedback. By automating sentiment analysis, we can gain valuable insights from large volumes of text data quickly and accurately.
 
 ## Preview 🔍 🤖
 
